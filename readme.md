@@ -1,39 +1,106 @@
 ![bg](https://user-images.githubusercontent.com/130422821/235036470-ffb94475-6a9f-4d67-bc92-1d425cf3dc68.jpg)
 
-# Hi there, I'm Sajal Halder 👋
+# 👋 Hi, I'm Sajal Halder
 
-# 💫 About Me:
-🧑 I'm Sajal Halder from  Bangladesh<br>🔭 I’m currently working in BJIT academy as trainee in J2EE<br>👯 I’m looking to collaborate on Spring Web Application<br>🌱 I’m currently learning Spring Boot<br>
+---
 
+## 💼 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/astroboysajal) 
+I’m a passionate **Software Engineer** from **Bangladesh**, specializing in **Java backend development** and **cross-platform mobile applications using Flutter**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-# 🎓 Education :
-- Lovely proffesional university Punjab , India
-- Daud public school and college , jessore
-# 📊 GitHub Stats:
+- 💻 Currently working at a global IT company, contributing to scalable backend services for enterprise systems.
+- 🔧 Skilled in **Spring Boot**, **Microservices**, and **Reactive programming**.
+- 📱 Proficient in building mobile apps using **Flutter** and **Firebase**.
+- ⚙️ Focused on clean code, performance, and test-driven development.
+- 🚀 Always exploring new technologies and architectural patterns.
+
+---
+
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/astroboysajal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajal-halder48)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/sajal48)
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Backend Development  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?logo=springboot&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/hibernate-%23232F3E.svg?logo=hibernate&logoColor=white)  
+![Kafka](https://img.shields.io/badge/kafka-231F20.svg?logo=apachekafka&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?logo=postgresql&logoColor=white)  
+
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase&logoColor=white)
+
+### 🔧 DevOps & Monitoring  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?logo=grafana&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🧩 Enterprise Backend Services 
+> *Java | Spring Boot | Reactive Streams | Kafka | Virtual Threads*
+
+- Developed microservices for a large-scale e-commerce platform, handling millions of concurrent requests.
+- Migrated legacy code to Java 21 using virtual threads for enhanced scalability.
+- Designed APIs with reactive programming and improved test automation with 100% coverage.
+
+### 📱 MyBudgetApp – Flutter Mobile App
+> *Flutter | Firebase | Provider | REST API*
+
+- Created a cross-platform personal finance app with real-time data sync.
+- Integrated Firebase Auth, Firestore, and push notifications.
+- Implemented clean architecture using Provider for state management.
+
+> _Note: Commercial project names excluded per NDA policy._
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering**  
+  Lovely Professional University, Punjab, India
+
+- **Higher Secondary Certificate**  
+  Daud Public School & College, Jessore
+
+---
+
+## 📈 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=sajal48&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajal48&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal48&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal48&theme=blueberry&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sajal48&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=sajal48&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-### ✍️ Random Dev Quote
+## 💬 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=sajal48&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!-- Enhanced and maintained by Sajal Halder -->
